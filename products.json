@@ -22,11 +22,11 @@
       "fileName": "vishnu_sahasranama"
     },
     {
-      "ProductId": "P1008",
-      "Name": "विष्णु सहस्रनाम",
-      "searchKey": "vishnu sahasranama narayan stotra",
-      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_08.png",
-      "fileName": "vishnu_sahasranama"
+      "ProductId": "P1004",
+      "Name": "बजरंग बाण",
+      "searchKey": "bajrang baan hanuman baan maruti stotra",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_04.png",
+      "fileName": "bajrang_baan"
     }
   ]
 }
