@@ -12,22 +12,21 @@
       "Name": "श्रीरामरक्षा स्तोत्र",
       "searchKey": "hanuman chalisa bajrang bali maruti ram shriram shri stotra",
       "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_02.png",
-      "contentPath": "content/ram_raksha_stotra.html"
+      "fileName": "ram_raksha_stotra"
     },
     {
-      "ProductId": "P1003",
-      "Name": "Panchapadi 3",
-      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_03.png"
+      "ProductId": "P1008",
+      "Name": "विष्णु सहस्रनाम",
+      "searchKey": "vishnu sahasranama narayan stotra",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_08.png",
+      "fileName": "vishnu_sahasranama"
     },
     {
-      "ProductId": "P1004",
-      "Name": "Panchapadi 4",
-      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_04.png"
-    },
-    {
-      "ProductId": "P1005",
-      "Name": "Panchapadi 5",
-      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_05.png"
+      "ProductId": "P1008",
+      "Name": "विष्णु सहस्रनाम",
+      "searchKey": "vishnu sahasranama narayan stotra",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_08.png",
+      "fileName": "vishnu_sahasranama"
     }
   ]
 }
