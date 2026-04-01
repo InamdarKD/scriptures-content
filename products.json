@@ -1,0 +1,33 @@
+{
+  "ProductCollection": [
+    {
+      "ProductId": "P1001",
+      "Name": "हनुमान चालीसा ",
+      "searchKey": "hanuman chalisa bajrang bali maruti stotra",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_01.png",
+      "contentPath": "content/hanuman_chalisa.html"
+    },
+    {
+      "ProductId": "P1002",
+      "Name": "श्रीरामरक्षा स्तोत्र",
+      "searchKey": "hanuman chalisa bajrang bali maruti ram shriram shri stotra",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_02.png",
+      "contentPath": "content/ram_raksha_stotra.html"
+    },
+    {
+      "ProductId": "P1003",
+      "Name": "Panchapadi 3",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_03.png"
+    },
+    {
+      "ProductId": "P1004",
+      "Name": "Panchapadi 4",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_04.png"
+    },
+    {
+      "ProductId": "P1005",
+      "Name": "Panchapadi 5",
+      "ProductPicUrl": "https://ui5.sap.com/test-resources/sap/m/images/Woman_05.png"
+    }
+  ]
+}
