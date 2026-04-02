@@ -2,9 +2,9 @@
   "ProductCollection": [
     {
       "ProductId": "P1001",
-      "Name": "हनुमान चालीसा",
+      "Name": "हनुमान चालीसा 1",
       "searchKey": "hanuman chalisa bajrang bali maruti stotra",
-      "ProductPicUrl": "https://www.shutterstock.com/image-photo/hindu-god-lord-hanuman-siting-260nw-2564430801.jpg",
+      "ProductPicUrl": "images/hanuman_chalisa.webp",
       "fileName": "hanuman_chalisa"
     },
     {
