@@ -10,14 +10,14 @@
     {
       "ProductId": "P1002",
       "Name": "श्रीरामरक्षा स्तोत्र",
-      "searchKey": "hanuman chalisa bajrang bali maruti ram shriram shri stotra",
+      "searchKey": "hanuman chalisa maruti shriram ram shriram shri stotra",
       "ProductPicUrl": "https://i.pinimg.com/236x/74/ff/42/74ff42e653d32934b4d7e05f0d867e44.jpg",
       "fileName": "ram_raksha_stotra"
     },
     {
       "ProductId": "P1008",
       "Name": "विष्णु सहस्रनाम",
-      "searchKey": "vishnu sahasranama narayan stotra",
+      "searchKey": "vishnu sahasranama narayan stotra ",
       "ProductPicUrl": "https://i.pinimg.com/564x/e5/c3/b7/e5c3b7330cf756bd7cbb42755a4e81c9.jpg",
       "fileName": "Vishnusahasranama_Stotra"
     },
@@ -26,7 +26,7 @@
       "Name": "बजरंग बाण",
       "searchKey": "bajrang baan hanuman baan maruti stotra",
       "ProductPicUrl": "https://i.pinimg.com/736x/46/8c/bf/468cbf8c1dd85daf86ee109b410a98fb.jpg",
-      "fileName": "bajrang_baan"
+      "fileName": "bajarang_baan"
     }
   ]
 }
