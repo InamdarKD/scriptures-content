@@ -55,6 +55,13 @@
       "searchKey": "test1",
       "ProductPicUrl": "",
       "fileName": "test1"
+    },
+    {
+      "ProductId": "P1775650430423",
+      "Name": "test2",
+      "searchKey": "test2",
+      "ProductPicUrl": "",
+      "fileName": "test2"
     }
   ]
 }
