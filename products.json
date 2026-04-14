@@ -2,10 +2,10 @@
   "ProductCollection": [
     {
       "ProductId": "P1001",
-      "Name": "हनुमान चालीसा1",
+      "Name": "हनुमान चालीसा",
       "searchKey": "hanuman chalisa bajrang bali maruti stotra",
       "ProductPicUrl": "https://inamdarkd.github.io/scriptures-content/images/hanuman_chalisa.webp",
-      "fileName": "hanuman_chalisa",
+      "fileName": "https://inamdarkd.github.io/scriptures-content/images/hanuman_chalisa.webp",
       "Visibility": "",
       "Approved": ""
     },
