@@ -5,14 +5,16 @@
       "username": "admin",
       "password": "1234",
       "approval": "",
-      "Role": "superuser"
+      "superuser": "ture",
+      "admin": "false"
     },
     {
       "id": "U102",
       "username": "Kaustubh",
       "password": "Kdi@2025",
       "approval": "",
-      "Role": "superuser"
+      "superuser": "ture",
+      "admin": "false"
     }
   ]
 }
