@@ -3,12 +3,16 @@
     {
       "id": "A101",
       "username": "admin",
-      "password": "1234"
+      "password": "1234",
+      "approval": "",
+      "Role": "superuser"
     },
     {
       "id": "U102",
       "username": "Kaustubh",
-      "password": "Kdi@2025"
+      "password": "Kdi@2025",
+      "approval": "",
+      "Role": "superuser"
     }
   ]
 }
