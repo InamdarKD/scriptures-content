@@ -3,7 +3,6 @@
     {
       "id": "A101",
       "username": "admin",
-      "mail": "admin@bhakti.com",
       "password": "1234",
       "approval": "",
       "superuser": "ture",
@@ -12,7 +11,6 @@
     {
       "id": "U102",
       "username": "Kaustubh",
-      "mail": "admin@bhakti.com",
       "password": "Kdi@2025",
       "approval": "",
       "superuser": "ture",
